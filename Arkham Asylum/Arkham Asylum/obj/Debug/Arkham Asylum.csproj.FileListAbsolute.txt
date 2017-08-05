@@ -1,0 +1,12 @@
+C:\Users\Johnny\Desktop\Arkham Asylum\Arkham Asylum\bin\Debug\Arkham Asylum.exe.config
+C:\Users\Johnny\Desktop\Arkham Asylum\Arkham Asylum\bin\Debug\Arkham Asylum.exe
+C:\Users\Johnny\Desktop\Arkham Asylum\Arkham Asylum\bin\Debug\Arkham Asylum.pdb
+C:\Users\Johnny\Desktop\Arkham Asylum\Arkham Asylum\obj\Debug\Arkham Asylum.csprojResolveAssemblyReference.cache
+C:\Users\Johnny\Desktop\Arkham Asylum\Arkham Asylum\obj\Debug\Arkham_Asylum.Login.resources
+C:\Users\Johnny\Desktop\Arkham Asylum\Arkham Asylum\obj\Debug\Arkham_Asylum.Properties.Resources.resources
+C:\Users\Johnny\Desktop\Arkham Asylum\Arkham Asylum\obj\Debug\Arkham Asylum.csproj.GenerateResource.Cache
+C:\Users\Johnny\Desktop\Arkham Asylum\Arkham Asylum\obj\Debug\Arkham Asylum.exe
+C:\Users\Johnny\Desktop\Arkham Asylum\Arkham Asylum\obj\Debug\Arkham Asylum.pdb
+C:\Users\Johnny\Desktop\Arkham Asylum\Arkham Asylum\obj\Debug\Arkham_Asylum.AdminForm.resources
+C:\Users\Johnny\Desktop\Arkham Asylum\Arkham Asylum\obj\Debug\Arkham_Asylum.AddForm.resources
+C:\Users\Johnny\Desktop\Arkham Asylum\Arkham Asylum\obj\Debug\Arkham_Asylum.DoctorForm.resources
