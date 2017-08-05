@@ -1,2 +1,2 @@
 # Arkham-Asylum
-Bassicaly it's a general managent of a system information program. 
+Basically it's a general management program (Of course, it's an exercise). 
